@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal currently stuyding BScCsit(Bachelor in Science Computer Science Information Technology) and currently working as an <strong><b>Associate System Enginner</strong></b> at <b>YCO PVT. LTD.</b>
 
 - 😎 I'm currently **Student**
 - 🔭 I’m currently working as an **Asscociate System Engineer**
