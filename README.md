@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: https://twitter.com/absurdexistance
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nabin0727" alt="Nabin0727" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>
@@ -37,3 +39,5 @@ Here are some ideas to get you started:
 [![Nabin0727's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabin0727)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=Nabin0727&layout=compact&theme=dracula)](https://github.com/Nabin0727/github-readme-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabin0727&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
