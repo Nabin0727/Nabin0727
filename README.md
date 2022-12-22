@@ -7,7 +7,7 @@ I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal currently stuyding BScCsi
 - 😎 I'm currently **Student**
 - 🔭 I’m currently working as an **Asscociate System Engineer**
 
-- 🌱 I’m currently learning **Forensic Analysis**
+- 🌱 I’m currently learning **Linux Adminstration + Digital Forensic**
 
 - 💬 Ask me about **Linux, Network**
 
