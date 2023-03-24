@@ -2,14 +2,14 @@
 
 
 
-I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal currently stuyding BScCsit(Bachelor in Science Computer Science Information Technology) and currently working as an <strong><b>Associate System Enginner</strong></b> at <b>YCO PVT. LTD.</b>
+I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal currently stuyding BSc.CSIT(Bachelor in Science Computer Science Information Technology) and currently learning <strong><b>Network Defense</strong>.</b>
 
 - 😎 I'm currently **Student**
-- 🔭 I’m currently working as an **Asscociate System Engineer**
+- 🔭 I’m have worked as an **Asscociate System Engineer**
 
-- 🌱 I’m currently learning **Linux Adminstration + Digital Forensic**
+- 🌱 I’m currently learning **Cyber Threat Management  +  Network Defense**
 
-- 💬 Ask me about **Linux, Network**
+- 💬 Ask me about **Linux, Network, CyberSecurity**
 
 - 📫 How to reach me: https://twitter.com/absurdexistance
 
