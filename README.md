@@ -2,12 +2,12 @@
 
 
 
-I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal currently stuyding BSc.CSIT(Bachelor in Science Computer Science Information Technology) and currently learning <strong><b>Network Defense</strong>.</b>
+I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal BSc.CSIT(Bachelor in Science Computer Science Information Technology) Graduated and currently learning <strong><b>System Programming</strong>.</b>
 
-- 😎 I'm currently **Student**
-- 🔭 I’m have worked as an **Associate System Engineer**
+- 😎 I'm currently working as an **Associate Solution Engineer** @**Logpoint**
+- 🔭 I’m have worked as an **Associate System Engineer and SIEM Engineer **
 
-- 🌱 I’m currently learning **Cyber Threat Management  +  Malware Analysis**
+- 🌱 I’m currently learning **System Programming  +  LLM**
 
 - 💬 Ask me about **Linux, Network, CyberSecurity**
 
