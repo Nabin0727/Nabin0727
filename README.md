@@ -40,4 +40,3 @@ I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal BSc.CSIT(Bachelor in Scie
 [![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=Nabin0727&layout=compact&theme=dracula)](https://github.com/Nabin0727/github-readme-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabin0727&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Nabin027)](https://git.io/streak-stats)
