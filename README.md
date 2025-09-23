@@ -11,7 +11,7 @@ I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal BSc.CSIT(Bachelor in Scie
 
 - 💬 Ask me about **Linux, Network, CyberSecurity**
 
-- 📫 How to reach me: https://twitter.com/absurdexistance
+- 📫 How to reach me: https://www.linkedin.com/in/connect-with-nabin/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nabin0727" alt="Nabin0727" /> </p>
 
