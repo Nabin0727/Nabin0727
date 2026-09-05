@@ -2,7 +2,7 @@
 
 
 
-I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal. I am BSc.CSIT(Bachelor in Science Computer Science Information Technology) Graduated and currently learning <strong><b>System Programming</strong>.</b>
+I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal.
 
 - 😎 I'm currently pursuing **PhD in Computer and Cyber Science @ Augusta University**
 - 🔭 I’m have worked as an **Associate System Engineer, SIEM Engineer and Solution Engineer**
