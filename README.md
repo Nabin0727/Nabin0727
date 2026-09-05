@@ -5,9 +5,10 @@
 I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal.
 
 - 😎 I'm currently pursuing **PhD in Computer and Cyber Science @ Augusta University**
-- 🔭 I’m have worked as an **Associate System Engineer, SIEM Engineer and Solution Engineer**
-
-- 🌱 My research is focused on Programming Language, Verification, Type System and Memory Safety
+  
+- 🔭 I’m have more than 3 years of Industry Experience.
+  
+- 🌱 My research is focused on **Programming Language, Verification, Type System and Memory Safety**
 
 - 📫 How to reach me: https://www.linkedin.com/in/connect-with-nabin/
 
