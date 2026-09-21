@@ -33,9 +33,3 @@ I am <b>Nabin Lopchan </b>. I am from Kathmandu, Nepal.
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheuios" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" width="40" height="40"/>
 </p>
-
-[![Nabin0727's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabin0727)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.spielers.vercel.app/api/top-langs/?username=Nabin0727&layout=compact&theme=dracula)](https://github.com/Nabin0727/github-readme-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nabin0727&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
